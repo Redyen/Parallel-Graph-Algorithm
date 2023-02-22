@@ -1,0 +1,18 @@
+Serial implementation:
+Vertices : 6 | Time Taken: 0.000348 s
+Vertices : 8 | Time Taken: 0.000356 s
+Vertices : 16 | Time Taken: 0.000347 s
+Vertices : 64 | Time Taken: 0.000746 s
+Vertices : 128 | Time Taken: 0.001821 s
+Vertices : 256 | Time Taken: 0.006102 s
+Vertices : 384 | Time Taken: 0.012922 s
+Vertices : 512 | Time Taken: 0.022965 s
+OpenMP implementation:
+Vertices : 6 | Time Taken: 0.000191 s
+Vertices : 8 | Time Taken: 0.000071 s
+Vertices : 16 | Time Taken: 0.000091 s
+Vertices : 64 | Time Taken: 0.000225 s
+Vertices : 128 | Time Taken: 0.000328 s
+Vertices : 256 | Time Taken: 0.000645 s
+Vertices : 384 | Time Taken: 0.000992 s
+Vertices : 512 | Time Taken: 0.003564 s

@@ -1,0 +1,4 @@
+Serial Result:
+0 16 32 36 31 13 31 13 
+OpenMP Result:
+0 16 32 36 31 13 31 13 
